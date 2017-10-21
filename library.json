@@ -4,7 +4,7 @@
 	"keywords": "base64, gBase64",
 	"description": "gBase64 library, The gBase library is actually a base64 library originally made by Adam Rudd",
 	"repository": {
-        "type": "git",
-        "url": "https://github.com/ArwedSchmidt/arduino-base64.git"
-    }
+		"type": "git",
+		"url": "https://github.com/ArwedSchmidt/arduino-base64.git"
+	}
 }
